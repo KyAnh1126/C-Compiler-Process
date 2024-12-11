@@ -1,3 +1,7 @@
+source file mô tả ví dụ về dùng g++ để compile main.cpp, bao gồm các file như:
+    - main.cpp là source file chính
+    - thư mục include chứa header
+
 I. Sơ lược về các files trong C/C++:
 - source file: file nguồn của user, chứa các đoạn mã cần thiết để biên dịch, có đuôi .c hoặc .cpp
 - header file: abstract file, chứa các hàm được khai báo và có thể được định nghĩa bởi các file triển khai, có đuôi .h hoặc .hpp 
