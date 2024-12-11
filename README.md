@@ -70,5 +70,3 @@ III. Hành trình biên dịch code C:
 4. Linking:
     - Ở các bước trước, g++ compiler chỉ mới tìm thấy khai báo của các hàm như message() hay message2() nhưng chưa biết được các định nghĩa của các hàm đó
     - Linking link đến các file chứa mã máy (ie: -lmessage) để tìm đến định nghĩa và địa chỉ của các hàm (ie: message())
-
-IV. Dùng gdb để debug chương trình:
